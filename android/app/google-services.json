@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266338040494",
+    "project_id": "lear-fire-base",
+    "storage_bucket": "lear-fire-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266338040494:android:103b23386cd7abeec64b3f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTqXv4BCwacTSrdX5j6_ilG0c4Dsa_r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
